@@ -1,4 +1,9 @@
 public class Experiments {
+
+    public static int powers(int a) {
+        return 5;
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("Testing another print statement.");
