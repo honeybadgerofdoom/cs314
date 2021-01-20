@@ -1,7 +1,7 @@
 public class Experiments {
 
     public static int powers(int a) {
-        return 5;
+        return a*a;
     }
 
     public static void main(String[] args) {
@@ -10,5 +10,6 @@ public class Experiments {
         System.out.println("This is the third print statement.");
         int x = 2+2;
         System.out.println("Two plus two = " + x);
+        System.out.println("This should be 9: " + powers(3));
     }
 }
