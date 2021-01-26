@@ -2,7 +2,7 @@ public class Experiments {
 
     public static String kassidyName() {
         // Change this to return your name!
-        return "";
+        return "name";
     }
 
     public static String zoeName() {
@@ -22,7 +22,7 @@ public class Experiments {
 
     public static String mattName() {
         // Change this to return your name!
-        return "";
+        return "name";
     }
 
     public static void main(String[] args) {
