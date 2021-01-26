@@ -2,7 +2,7 @@ public class Experiments {
 
     public static String kassidyName() {
         // Change this to return your name!
-        return "name";
+        return "sooper sasser";
     }
 
     public static String zoeName() {
